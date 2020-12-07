@@ -25,8 +25,6 @@ http://danco-panel.mzf.cz/moderntv/stream/40-hls/stv1.m3u8
 http://danco-panel.mzf.cz/moderntv/stream/40-hls/stv2.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="SlovakTV-HD", Trojka HD
 http://danco-panel.mzf.cz/moderntv/stream/40-hls/stv3.m3u8
-http://danco-panel.mzf.cz/moderntv/stream/10-hls/cinemax2.m3u8
-#EXTINF:0 type="favorites" channelId="3929" group="MovieTV", JOJ Cinema
 #EXTINF:0 type="favorites" channelId="-1" group="CzechTV", CT1
 http://danco-panel.mzf.cz/moderntv/stream/10-hls/ct1.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="CzechTV", CT2
